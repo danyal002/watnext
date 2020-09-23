@@ -6,6 +6,12 @@
     "course": "MATH 135"
   },
   {
+    "due": 1601265540,
+    "type": "Assignment",
+    "name": "ECE Assignment 2",
+    "course": "ECE 105"
+  }.
+  {
     "due": 1600487700,
     "type": "Assignment",
     "name": "Written Assignment 1",
